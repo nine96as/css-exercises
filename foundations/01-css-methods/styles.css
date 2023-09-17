@@ -1,1 +1,7 @@
-
+div {
+  font-size: x-large;
+  font-weight: bold;
+  color: white;
+  background-color: red;
+  text-align: center;
+}
