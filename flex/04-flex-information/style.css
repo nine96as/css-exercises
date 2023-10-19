@@ -5,6 +5,7 @@ body {
 main {
   display: flex;
   justify-content: center;
+  margin: 32px;
 }
 
 img {
