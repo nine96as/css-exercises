@@ -8,6 +8,7 @@
 }
 
 .box {
+  align-self: center;
   background: palevioletred;
   font-weight: bold;
   text-align: center;
