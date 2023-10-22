@@ -46,6 +46,10 @@ body {
   margin-bottom: 8px;
 }
 
+.text {
+  margin-bottom: 16px;
+}
+
 .close-button {
   flex-shrink: 0;
   background: #eee;
