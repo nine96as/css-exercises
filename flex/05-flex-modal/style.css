@@ -41,6 +41,7 @@ body {
 }
 
 .header {
+  display: flex;
   font-weight: 700;
   font-size: large;
   margin-bottom: 8px;
