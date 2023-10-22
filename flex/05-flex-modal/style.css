@@ -40,6 +40,10 @@ body {
   justify-content: center;
 }
 
+.main {
+  display: flex;
+}
+
 .close-button {
   flex-shrink: 0;
   background: #eee;
