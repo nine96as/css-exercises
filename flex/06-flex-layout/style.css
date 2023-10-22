@@ -33,7 +33,7 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 16px 0 16px;
+  padding: 16px;
 }
 
 .content {
