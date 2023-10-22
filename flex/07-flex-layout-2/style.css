@@ -39,6 +39,7 @@ body {
 }
 
 .cards {
+  display: flex;
   padding: 48px;
 }
 
