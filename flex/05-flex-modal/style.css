@@ -27,6 +27,7 @@ body {
 }
 
 .icon {
+  flex-shrink: 0;
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
@@ -40,6 +41,7 @@ body {
 }
 
 .close-button {
+  flex-shrink: 0;
   background: #eee;
   border-radius: 50%;
   color: #888;
