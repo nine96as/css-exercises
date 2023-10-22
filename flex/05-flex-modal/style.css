@@ -40,7 +40,8 @@ body {
   justify-content: center;
 }
 
-.main {
+.header {
+  font-weight: 700;
 }
 
 .close-button {
