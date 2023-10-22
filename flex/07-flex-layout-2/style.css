@@ -41,7 +41,7 @@ body {
 .cards {
   display: flex;
   flex-flow: row wrap;
-  padding: 48px;
+  padding: 32px;
 }
 
 .card {
