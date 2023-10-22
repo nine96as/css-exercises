@@ -30,3 +30,8 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+.left-links,
+.right-links {
+  list-style-type: none;
+}
