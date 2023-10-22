@@ -12,6 +12,8 @@ body {
   align-items: center;
   padding: 0 16px 0 16px;
   height: 72px;
+  font-weight: 900;
+  font-size: x-large;
   background: darkmagenta;
   color: white;
 }
