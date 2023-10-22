@@ -33,6 +33,7 @@ input {
 
 .left-links,
 .right-links {
+  display: flex;
   list-style-type: none;
 }
 
